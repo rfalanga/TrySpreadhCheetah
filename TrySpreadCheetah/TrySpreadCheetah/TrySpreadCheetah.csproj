@@ -10,7 +10,6 @@
   <ItemGroup>
     <PackageReference Include="ExcelDataReader" Version="3.8.0" />
     <PackageReference Include="ExcelDataReader.DataSet" Version="3.8.0" />
-    <PackageReference Include="SpreadCheetah" Version="1.23.0" />
   </ItemGroup>
 
 </Project>

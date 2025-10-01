@@ -1,7 +1,4 @@
-﻿using SpreadCheetah;
-using System.IO;
-using ExcelDataReader;
-using System.Data;
+﻿using ExcelDataReader;
 
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
